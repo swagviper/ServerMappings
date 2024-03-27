@@ -2,8 +2,9 @@
     "id": "voxelmines",
     "name": "VoxelMines",
     "website": "https://voxelmines.com/",
-    "store": "https://voxelmines.com/",
+    "store": "https://store.voxelmines.com/",
     "addresses": [
+        "play.voxelmines.com",
         "voxelmines.com"
     ],
     "primaryAddress": "play.voxelmines.com",
